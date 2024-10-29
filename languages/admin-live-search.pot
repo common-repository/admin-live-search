@@ -1,0 +1,150 @@
+# Copyright (C) 2018 Admin Live Search
+# This file is distributed under the same license as the Admin Live Search package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Live Search 3.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/admin-live-search\n"
+"POT-Creation-Date: 2018-10-10 16:47:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-admin-live-search-admin.php:95
+msgid "Title and Text"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:96
+msgid "Title Only"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:97
+msgid "Text Only"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:167
+msgid "Invalid post type."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:170
+msgid "You need a higher level of permission."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:171
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:191
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:211
+msgid "How to use the Admin Live Search plugin:"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:213
+msgid "This plugin provides live search for the dashboard/admin area only."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:214
+msgid "Just type and the results will appear as you type without refreshing the page."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:215
+msgid "Sorting and pagination are also live without refreshing the page."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:217
+msgid "The live search doesn't work properly with custom post types (like products, projects, etc) because custom columns are not yet supported so the results appear without the extra columns added by custom post types."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:218
+msgid "You can enable or disable the Admin Live Search for custom post types below:"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:222
+msgid "Enable Admin Live Search for Custom Post Types"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:227
+msgid "Privacy and Cookies:"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:229
+msgid "This plugin does NOT collect any personal information."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:230
+msgid "All information inserted by the admin user like the search keyword is used only locally in your website's admin area."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:231
+msgid "If you have any question regarding privacy or information used by this plugin please"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:231
+#: admin/class-admin-live-search-admin.php:237
+msgid "Contact Support"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:235
+msgid "Further support:"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:237
+msgid "If you found a problem or want a new feature please"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:241
+msgid "Credits:"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:243
+msgid "Images/icons from openclipart.org: "
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:250
+msgid "Support the development of this plugin:"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:252
+msgid "This plugin is FREE to use."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:253
+msgid "If you find this plugin usefull please consider that it takes the time and efford to develop and maintain this plugin and help the author."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:254
+msgid "Add your [icon] on [wporg] to spread the love."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:255
+msgid "Donate"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:257
+msgid "Thank you."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:265
+msgid "Settings"
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:284
+msgid "is disabled for this content."
+msgstr ""
+
+#: admin/class-admin-live-search-admin.php:284
+msgid "Why?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Admin Live Search"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Live search pages and posts in the dashboard / admin area as you type using the internal wordpress search via AJAX. Added filter to search by title only, content only or all (default)."
+msgstr ""

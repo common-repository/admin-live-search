@@ -1,0 +1,189 @@
+# Copyright (C) 2018 Admin Live Search
+# This file is distributed under the same license as the Admin Live Search package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Live Search 3.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/admin-live-"
+"search\n"
+"POT-Creation-Date: 2018-10-10 16:47:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-10-10 17:58+0100\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt_PT\n"
+
+#: admin/class-admin-live-search-admin.php:95
+msgid "Title and Text"
+msgstr "Título e texto"
+
+#: admin/class-admin-live-search-admin.php:96
+msgid "Title Only"
+msgstr "Somente título"
+
+#: admin/class-admin-live-search-admin.php:97
+msgid "Text Only"
+msgstr "Apenas texto"
+
+#: admin/class-admin-live-search-admin.php:167
+msgid "Invalid post type."
+msgstr "Tipo de conteúdo inválido."
+
+#: admin/class-admin-live-search-admin.php:170
+msgid "You need a higher level of permission."
+msgstr "Você precisa de um nível mais alto de permissão."
+
+#: admin/class-admin-live-search-admin.php:171
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "Não tem permissões para editar conteúdos deste tipo."
+
+#: admin/class-admin-live-search-admin.php:191
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Resultados da pesquisa por &#8220;%s&#8221;"
+
+#: admin/class-admin-live-search-admin.php:211
+msgid "How to use the Admin Live Search plugin:"
+msgstr "Como usar o plugin Admin Live Search:"
+
+#: admin/class-admin-live-search-admin.php:213
+msgid "This plugin provides live search for the dashboard/admin area only."
+msgstr ""
+"Este plugin fornece pesquisa ao vivo para a área de dashboard/admin apenas."
+
+#: admin/class-admin-live-search-admin.php:214
+msgid ""
+"Just type and the results will appear as you type without refreshing the "
+"page."
+msgstr ""
+"Basta digitar e os resultados aparecerão à medida que você digitar sem "
+"atualizar a página."
+
+#: admin/class-admin-live-search-admin.php:215
+msgid "Sorting and pagination are also live without refreshing the page."
+msgstr "Ordenação e paginação também são ao vivo sem atualizar a página."
+
+#: admin/class-admin-live-search-admin.php:217
+msgid ""
+"The live search doesn't work properly with custom post types (like products, "
+"projects, etc) because custom columns are not yet supported so the results "
+"appear without the extra columns added by custom post types."
+msgstr ""
+"A pesquisa ao vivo não funciona corretamente com tipos de conteúdos "
+"personalizados (como produtos, projetos, etc) porque as colunas "
+"personalizadas ainda não são suportadas por isso os resultados aparecem sem "
+"as colunas extras adicionadas por tipos de conteúdos personalizados."
+
+#: admin/class-admin-live-search-admin.php:218
+msgid ""
+"You can enable or disable the Admin Live Search for custom post types below:"
+msgstr ""
+"Você pode habilitar ou desabilitar a pesquisa ao vivo para tipos de "
+"conteúdos personalizados abaixo:"
+
+#: admin/class-admin-live-search-admin.php:222
+msgid "Enable Admin Live Search for Custom Post Types"
+msgstr "Habilitar a pesquisa ao vivo para tipos de conteúdos personalizados"
+
+#: admin/class-admin-live-search-admin.php:227
+msgid "Privacy and Cookies:"
+msgstr "Privacidade e cookies:"
+
+#: admin/class-admin-live-search-admin.php:229
+msgid "This plugin does NOT collect any personal information."
+msgstr "Este plugin NÃO recolhe nenhuma informação pessoal."
+
+#: admin/class-admin-live-search-admin.php:230
+msgid ""
+"All information inserted by the admin user like the search keyword is used "
+"only locally in your website's admin area."
+msgstr ""
+"Todas as informações inseridas pelo utilizador administrador como a palavra "
+"de pesquisa são usadas apenas localmente na área de administração do seu "
+"site."
+
+#: admin/class-admin-live-search-admin.php:231
+msgid ""
+"If you have any question regarding privacy or information used by this "
+"plugin please"
+msgstr ""
+"Se você tiver alguma dúvida sobre a privacidade ou a informação usada por "
+"este plugin por favor"
+
+#: admin/class-admin-live-search-admin.php:231
+#: admin/class-admin-live-search-admin.php:237
+msgid "Contact Support"
+msgstr "Contacte o Suporte"
+
+#: admin/class-admin-live-search-admin.php:235
+msgid "Further support:"
+msgstr "Apoio adicional:"
+
+#: admin/class-admin-live-search-admin.php:237
+msgid "If you found a problem or want a new feature please"
+msgstr ""
+"Se você encontrou um problema ou quer uma nova funcionalidade, por favor"
+
+#: admin/class-admin-live-search-admin.php:241
+msgid "Credits:"
+msgstr "Créditos:"
+
+#: admin/class-admin-live-search-admin.php:243
+msgid "Images/icons from openclipart.org: "
+msgstr "Imagens/ícones de openclipart.org: "
+
+#: admin/class-admin-live-search-admin.php:250
+msgid "Support the development of this plugin:"
+msgstr "Apoie o desenvolvimento deste plugin:"
+
+#: admin/class-admin-live-search-admin.php:252
+msgid "This plugin is FREE to use."
+msgstr "Este plugin é GRATUITO para usar."
+
+#: admin/class-admin-live-search-admin.php:253
+msgid ""
+"If you find this plugin usefull please consider that it takes the time and "
+"efford to develop and maintain this plugin and help the author."
+msgstr ""
+"Se você acha que este plugin é útil por favor considere que ele leva tempo e "
+"esforço para desenvolver e manter este plugin e ajude o autor."
+
+#: admin/class-admin-live-search-admin.php:254
+msgid "Add your [icon] on [wporg] to spread the love."
+msgstr "Adicione as suas [icon] em [wporg] para espalhar o amor."
+
+#: admin/class-admin-live-search-admin.php:255
+msgid "Donate"
+msgstr "Fazer Donativo"
+
+#: admin/class-admin-live-search-admin.php:257
+msgid "Thank you."
+msgstr "Obrigado."
+
+#: admin/class-admin-live-search-admin.php:265
+msgid "Settings"
+msgstr "Configurações"
+
+#: admin/class-admin-live-search-admin.php:284
+msgid "is disabled for this content."
+msgstr "está desabilitado para esse conteúdo."
+
+#: admin/class-admin-live-search-admin.php:284
+msgid "Why?"
+msgstr "Porquê?"
+
+#. Plugin Name of the plugin/theme
+msgid "Admin Live Search"
+msgstr "Admin Live Search"
+
+#. Description of the plugin/theme
+msgid ""
+"Live search pages and posts in the dashboard / admin area as you type using "
+"the internal wordpress search via AJAX. Added filter to search by title "
+"only, content only or all (default)."
+msgstr ""
+"Pesquisa ao vivo de artigos e páginas na área de admin/dashboard via AJAX. "
+"Adicionados filtros para pesquisar por título apenas, por conteúdo apenas ou "
+"tudo (por defeito)."
